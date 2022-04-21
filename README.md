@@ -18,6 +18,6 @@ The repo has files below:
 
 
 ### Running the Program
-Simple run test.py 
+Simply run test.py 
 
 
